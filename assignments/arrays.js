@@ -75,7 +75,6 @@ const carInfo = (carNumber) => {
 carInfo(33);
 
 
-
 // ==== Challenge 2 ====
 // The dealer needs the information on the last car in their inventory.  What is the make and model of the last car in the inventory?  Log the make and model into the console.
 let lastCar = 0;
